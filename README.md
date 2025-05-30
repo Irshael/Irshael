@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Irshael
-- 👀 I’m interested in learning code and all around it 
-- 🌱 I’m currently learning web languages
+- 👀 I’m interested in learning code and all around it
+- 🌱 I’m currently learning Python and i code a lot in VBA 
+
 
 
 <!---
